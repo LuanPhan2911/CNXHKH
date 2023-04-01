@@ -1,0 +1,19 @@
+.questions{
+    .ask{
+        font-weight: 600;
+    }
+    .marked{
+        text-decoration: line-through;
+    }
+    .ans{
+        .show-ans{
+            color: blue;
+            cursor: pointer;
+        }
+        .hide-ans{
+            color: green;
+            cursor: pointer;
+        }
+    }
+    margin: 0.5rem 0;
+}

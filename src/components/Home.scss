@@ -1,0 +1,96 @@
+.container {
+   
+
+    .header {
+        height: 10%;
+        .menu{
+            position: fixed;
+            top: 1rem;
+            left: 1rem;
+            cursor: pointer;
+        }
+        .navbar {
+            justify-content: center;
+            align-items: center;
+
+            .title {
+                font-size: 30px;
+                font-weight: 600;
+                text-transform: uppercase;
+            }
+        }
+        .setting{
+            position: fixed;
+            top: 1rem;
+            right: 1rem;
+            cursor: pointer;
+            border: none;
+            outline: none;
+            background-color: transparent;
+        }
+    }
+
+    .main {
+        height: 90%;
+        display: flex;
+        flex-direction: row;
+
+        .sidebar {
+            width: 20%;
+        }
+
+        .content {
+            width: 80%;
+        }
+    }
+
+}
+.control{
+   
+    .change-color{
+        display: flex;
+        flex-direction: row;
+        
+        .background{
+            width: 30%;
+        }
+        .colors{
+            width: 70%;
+            display: flex;
+            justify-content: flex-start;
+            flex-wrap: wrap;
+            gap: 1rem;
+            .color-item{
+                border-radius: 50%;
+                width: 2.5rem;
+                height: 2.5rem;
+                border: 1px solid black;
+                outline: none;
+            }
+        }
+       
+    }
+    .change-font-family{
+        display: flex;
+        flex-direction: row;
+        .font-family-title{
+            width: 30%;
+        }
+        .font-family{
+            width: 70%;
+        }
+    }
+    .change-font-size{
+        display: flex;
+        flex-direction: row;
+        .font-size-title{
+            width: 30%;
+        }
+        .font-size{
+            width: 70%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+    }
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "backgroundColor": "#a99d9d",
+    "color": "#000"
+  },
+  {
+    "id": 2,
+    "backgroundColor": "#a9a28d",
+    "color": "#000"
+  },
+  {
+    "id": 3,
+    "backgroundColor": "#9ca49c",
+    "color": "#000"
+  },
+  {
+    "id": 4,
+    "backgroundColor": "#9ba0a0",
+    "color": "#000"
+  },
+  {
+    "id": 5,
+    "backgroundColor": "#a29d92",
+    "color": "#000"
+  },
+  {
+    "id": 6,
+    "backgroundColor": "#9e9d9a",
+    "color": "#000"
+  },
+  {
+    "id": 7,
+    "backgroundColor": "#171717",
+    "color": "#fff"
+  },
+  {
+    "id": 8,
+    "backgroundColor": "#fff",
+    "color": "#000"
+  }
+]

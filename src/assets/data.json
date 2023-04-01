@@ -1,0 +1,606 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chương I:Nhập môn chủ nghĩa xã hội khoa học",
+    "questions": [
+      {
+        "id": 1,
+        "ask": "Câu 1: Năm sinh năm mất của Mac?",
+        "ans": "1818-1883"
+      },
+      {
+        "id": 2,
+        "ask": "Câu 2: Năm sinh năm mất của Lênin? ",
+        "ans": "1870-1924"
+      },
+      {
+        "id": 3,
+        "ask": "Câu 3: Năm sinh năm mất của Ăngghen?",
+        "ans": "1820-1895"
+      },
+      {
+        "id": 4,
+        "ask": "Câu 4: CNXH khoa học theo nghĩa rộng là gì?",
+        "ans": "Chủ nghĩa Mác-Lênin"
+      },
+      {
+        "id": 5,
+        "ask": "Câu 5: Chủ nghĩa Mác-Lênin là gì?",
+        "ans": "Học thuyết khoa học về sự nghiệp giải phóng giai cấp công nhân và nhân dân lao động. "
+      },
+      {
+        "id": 6,
+        "ask": "Câu 6: Vì sao CNXHKH theo nghĩa rộng lại là chủ nghĩa Mác-lênin?",
+        "ans": "Vì chủ nghĩa XHKH dựa vào triết học (CN Mác), kinh tế chính trị để luận giải về sự chuyển biến tất yếu của xã hội từ TBCN lên CNXH."
+      },
+      {
+        "id": 7,
+        "ask": "Câu 7: Bộ phận chủ nghĩa Mác cấu thành từ 3 bộ phận nào, theo thứ tự?",
+        "ans": "Triết học Mác-lênin, kinh tế chính trị Mác-lênin, chủ nghĩa XHKH"
+      },
+      {
+        "id": 8,
+        "ask": "Câu 8: Nguồn gốc trực tiếp dẫn đến sự ra đời của CNXHKH?",
+        "ans": "CNXH không tưởng phê phán Pháp."
+      },
+      {
+        "id": 9,
+        "ask": "Câu 9: Ai là người khẳng định, kế thừa 3 bộ phận CN Mac. “Nó là người thừa kế chính đáng của tất cả những cái tốt đẹp nhất mà loài người đã tạo ra hồi thế kỷ XIX, đó là triết học Đức, kinh tế chính trị học Anh và chủ nghĩa xã hội Pháp?",
+        "ans": "V.I.Lenin"
+      },
+      {
+        "id": 10,
+        "ask": "Câu 10: Điều kiện khách quan dẫn đến sự ra đời của chủ nghĩa XHKH?",
+        "ans": "ĐK KT-XH"
+      },
+      {
+        "id": 11,
+        "ask": "Câu 11: Tiền đề khách quan 🡪 ra đời CNXHKH?",
+        "ans": "Tiền đề KHTN và tư tưởng lý luận."
+      },
+      {
+        "id": 12,
+        "ask": "Câu 12: Vào những năm 40 của thế kỉ XIX, dưới tác động của nền đại công nghiệp đã làm cho phương thức sản xuất TBCN phát triển vượt bậc làm cho mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa cao và quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân về tư liệu sản xuất bộc lộ trở nên gay gắt. Đó là điều kiện gì dẫn đến sự ra đời của CNXHKH?",
+        "ans": "ĐK kinh tế"
+      },
+      {
+        "id": 13,
+        "ask": "Câu 13: Điều kiện chủ quan của sự ra đời của CNXHKH ?",
+        "ans": "Vai trò của C.Mác và Ph.Ăng ghen"
+      },
+      {
+        "id": 14,
+        "ask": "Câu 14: Chuyển biến lập trường triết học và lập trường chính trị của Mác-Ăngghen diễn ra vào thời gian nào?",
+        "ans": "1843-1848"
+      },
+      {
+        "id": 15,
+        "ask": "Câu 15: Chuyển biến lập trường triết học và lập trường chính trị của Mác-Ăngghen vào những năm 1843-1848 đó là?",
+        "ans": "Duy tâm sang duy vật, dân chủ cách mạng sang cộng sản chủ nghĩa."
+      },
+      {
+        "id": 16,
+        "ask": "Câu 16:  Có bao nhiêu phát kiến vĩ đại của Mác và Ăng ghen?",
+        "ans": "Có 3 phát kiến vĩ đại : (chủ nghĩa duy vật lịch sử, học thuyết về giá trị thặng dư, học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân)."
+      },
+      {
+        "id": 17,
+        "ask": "Câu 17: Tác phẩm đánh dấu sự ra đời của CNXHKH?",
+        "ans": "Tuyên ngôn của ĐCS"
+      },
+      {
+        "id": 18,
+        "ask": "Câu 18: Tác phẩm kinh điển chủ yếu của CNXHKH và cương lĩnh chính trị đầu tiên của phong trào công nhân và đảng cộng sản?",
+        "ans": "Tuyên ngôn của ĐCS"
+      },
+      {
+        "id": 19,
+        "ask": "Câu 19: Tác phẩm tuyên ngôn của đảng cộng sản do ai viết?",
+        "ans": "Mác-ĂngGhen."
+      },
+      {
+        "id": 20,
+        "ask": "Câu 20: Phát triển chủ nghĩa xã hội không tưởng thành CNXHKH là công lao của ai?",
+        "ans": "Mác và Ăng ghen"
+      },
+      {
+        "id": 21,
+        "ask": "Câu 21:Ăngghen  đã luận chứng về sự ra đời của CNXH khoa học từ không tưởng thành khoa học trong tác phẩm?",
+        "ans": "Tác phẩm chống Đuyrinh (1878)"
+      },
+      {
+        "id": 22,
+        "ask": "Câu 22:CNXHKH phát triển qua các giai đoạn?",
+        "ans": "Giai đoạn Mác-Ăngghen đưa ra CNXH khoa học, Giai đoạn Lênin bảo vệ vận dụng phát triển CNXHKH, Giai đoạn sau khi Lênin qua đời."
+      },
+      {
+        "id": 23,
+        "ask": "Câu 23: Ai là người đầu tiên biến chủ nghĩa Mác-Lênin nói chung, CNXHKH nói riêng từ học thuyết trở thành hiện thực?",
+        "ans": "Lenin"
+      },
+      {
+        "id": 24,
+        "ask": "Câu 24: Trong 3 phát kiến của Mác-Ăngghen, phát kiến nào khẳng định về phương diện chính trị - xã hội sự diệt vong không tránh khỏi của chủ nghĩa tư bản và thắng lợi tất yếu của chủ nghĩa xã hội?",
+        "ans": "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân."
+      },
+      {
+        "id": 25,
+        "ask": "Câu 25: Trên cơ sở tổng kết kinh nghiệm Công xã Pari, C.Mác và Ph.Ăngghen phát triển toàn diện chủ nghĩa xã hội khoa học, cụ thể là bổ sung và phát triển cái gì?",
+        "ans": "Tư tưởng đập tan bộ máy nhà nước quan liêu"
+      },
+      {
+        "id": 26,
+        "ask": "Câu 26: “Vô sản tất cả đất nước và các dân tộc bị áp bức hãy đoàn kết lại” là lời kêu gọi của?",
+        "ans": "Lenin"
+      },
+      {
+        "id": 27,
+        "ask": "Câu 27: ĐCSVN có mấy đóng góp to lớn vào kho tàng lý luận của CN Mác -Lênin nói chung, CNXHKH nói riêng?",
+        "ans": "7"
+      },
+      {
+        "id": 28,
+        "ask": "Câu 28: Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học ?",
+        "ans": "Những quy luật, chính trị-xã hội của hình thái KT-XH CSCN"
+      },
+      {
+        "id": 29,
+        "ask": "Câu 29: CNXHKH sử dụng phương thức luận chung nhất nào để luận giải về sứ mệnh lịch sử của giai cấp công nhân và hình thái kinh tế xã hội chủ nghĩa cộng sản?",
+        "ans": "Chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử."
+      },
+      {
+        "id": 30,
+        "ask": "Câu 30: Nghiên cứu CNXHKH có ý nghĩa?",
+        "ans": "Về mặt lý luận và thực tiễn"
+      },
+      {
+        "id": 31,
+        "ask": "Câu 31: Phạm trù nào là phạm trù trung tâm, nguyên lý xuất phát của CNXHKH và cũng là trọng điểm của cuộc đấu tranh tư tưởng lý luận trong thời đại ngày nay?",
+        "ans": "Sứ mệnh lịch sử thế giới của giai cấp công nhân."
+      },
+      {
+        "id": 32,
+        "ask": "Câu 32: Điền vào chỗ trống. Theo quan niệm: giai cấp công nhân là một tập đoàn xã hội, hình thành và phát triển cùng với quá trình phát triển của nền … hiện đại. Họ lao động bằng … ngày càng hiện đại và gắn liền với quá trình … hiện đại?",
+        "ans": "Công nghiệp - phương thức - sản xuất vật chất"
+      },
+      {
+        "id": 33,
+        "ask": "Câu 33: Xây dựng luận chứng về sứ mệnh lịch sử của giai cấp công nhân dựa vào phát kiến nào?",
+        "ans": "Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chapter": "Chương II: Sứ mệnh lịch sử của giai cấp công nhân",
+    "questions": [
+      {
+        "id": 34,
+        "ask": "Câu 34: Điền vào chỗ trống: Giai cấp công nhân là giai cấp duy nhất có ... xóa bỏ tư bản, xóa bỏ các chế độ người bóc lột người, giải phóng giai cấp công nhân?",
+        "ans": "Sứ mệnh lịch sử"
+      },
+      {
+        "id": 35,
+        "ask": "Câu 35: Giai cấp công nhân thông qua chính đảng tiền phong, nhân dân lao động đấu tranh xóa bỏ CNTB, xóa bỏ chế độ người bóc lột người, giải phóng giai cấp công nhân và nhân dân lao động khỏi áp bức bóc lột, nghèo nàn, lạc hậu, xây dựng xã hội cộng sản chủ nghĩa văn minh. Đây là?",
+        "ans": "Nội dung tổng quát của sứ mệnh lịch sử giai cấp công nhân."
+      },
+      {
+        "id": 36,
+        "ask": "Câu 36: Sứ mệnh lịch sử giai cấp công nhân có ĐK khách quan nào quy định?",
+        "ans": "2 ĐK: địa vị kinh tế và địa vị chính trị - xã hội của giai cấp công nhân quy định"
+      },
+      {
+        "id": 37,
+        "ask": "Câu 37: Sứ mệnh lịch sử giai cấp công nhân có ĐK chủquan nào quy định?",
+        "ans": "Sự phát triển của bản thân giai cấp công nhân và vai trò của Đảng cộng sản."
+      },
+      {
+        "id": 38,
+        "ask": "Câu 38: Giai cấp công nhân đại biểu cho lực lượng sản xuất và phương thức sản xuất tiên tiến. Sứ mệnh lịch sử của giai cấp công nhân được quy định và thực hiện bởi?",
+        "ans": "Điều kiện khách quan và điều kiện chủ quan"
+      },
+      {
+        "id": 39,
+        "ask": "Câu 39: Trong CNTB, giai cấp có lợi ích cơ bản đối lập với lợi ích của giai cấp tư sản?",
+        "ans": "Giai cấp công nhân"
+      },
+      {
+        "id": 40,
+        "ask": "Câu 40: Giai cấp công nhân có lợi ích cơ bản thống nhất với lợi ích của ai?",
+        "ans": "Đại đa số nhân dân lao động."
+      },
+      {
+        "id": 41,
+        "ask": "Câu 41: Theo quan niệm Mác - Lênin, giai cấp công nhân trong xã hội CNTB bị giai cấp tư sản bóc lột gì?",
+        "ans": "Giá trị thặng dư"
+      },
+      {
+        "id": 42,
+        "ask": "Câu 42: Theo Mác: “mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa cao và quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân về tư liệu sản xuất biểu hiện về mặt xã hội là mâu thuẫn giữa?",
+        "ans": "Giai cấp công nhân và giai cấp tư sản."
+      },
+      {
+        "id": 43,
+        "ask": "Câu 43: Nguồn gốc giàu có của giai cấp tư sản là?",
+        "ans": "Bóc lột ngày càng nhiều hơn giá trị thặng dư của giai cấp công nhân"
+      },
+      {
+        "id": 44,
+        "ask": "Câu 44: giai cấp công nhân trong CNTB có bao nhiêu đặc điểm?",
+        "ans": "3 "
+      },
+      {
+        "id": 45,
+        "ask": "Câu 45: Giai cấp công nhân là giai cấp ... và có tinh thần…?",
+        "ans": "Tiên phong cách mang (CM) / Cách mạng triệt để"
+      },
+      {
+        "id": 46,
+        "ask": "Câu 46: Trong tác phẩm Tuyên ngôn của ĐCS: “ Trong tất cả các giai cấp đang đối lập với giai cấp tư sản thi chỉ có… là thực sự cách mạng các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là…  của bản thân nền đại công nghiệp.”?",
+        "ans": "Giai cấp vô sản - Sản phẩm"
+      },
+      {
+        "id": 47,
+        "ask": "Câu 47: “Thực hiện sự nghiệp giải phóng thế giới ấy,đó là sứ mệnh lịch sử của giai cấp vô sản hiện đại.” Đây là do ai viết?",
+        "ans": "C.Mác"
+      },
+      {
+        "id": 48,
+        "ask": "Câu 48: Một trong những nét đặc trưng của giai cấp công nhân thế giới hiện nay?",
+        "ans": "Lực lượng lao động có trình độ học vấn ngày càng cao, được đào tạo nghề nghiệ nhất định trong cơ cấu lao động."
+      },
+      {
+        "id": 49,
+        "ask": "Câu 49: Những điểm tương đồng của giai cấp công nhân hiện nay so với giai cấp công nhân thế kỉ XIX?",
+        "ans": "Vẫn đang là lực lượng sản xuất hàng đầu của xã hội hiện nay. Là chủ thể của quá trình sản xuất công nghiệp hiện đại"
+      },
+      {
+        "id": 50,
+        "ask": "Câu 50: Một trong những biến đổi và khác biệt của giai cấp công nhân hiện nay so vs giai cấp công nhân TK XIX?",
+        "ans": "Xu hướng trí tuệ hóa tăng nhanh trong giai cấp công nhân"
+      },
+      {
+        "id": 51,
+        "ask": "Câu 51: Một trong những biến đổi và khác biệt của giai cấp công nhân hiện nay so vs giai cấp công nhân TK XIX?",
+        "ans": "Một bộ phận công nhân đã tham gia vào sở hữu 1 lượng tư liệu sản xuất của xã hội  thông qua chế độ cổ phần hóa."
+      },
+      {
+        "id": 52,
+        "ask": "Câu 52: Nhân tố chủ quan, quan trọng để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình?",
+        "ans": "Sự lãnh đạo của đảng cộng sản"
+      },
+      {
+        "id": 53,
+        "ask": "Câu 53: Sự lãnh đạo của ĐCS là gì?",
+        "ans": "Là nhân tố chủ quan quan trọng nhất để giai cấp công nhân thực hiện thắng lợi sứ mệnh lịch sử của mình."
+      },
+      {
+        "id": 54,
+        "ask": "Câu 54: Yếu tố nào có vai trò quyết định nhất đối với tinh thần CM triệt để của giai cấp công nhân?",
+        "ans": "GCCN đại biểu cho lực lượng sản xuất  tiên tiến và phương thức sản xuất tiên tiến"
+      },
+      {
+        "id": 55,
+        "ask": "Câu 55: Quy luật chung của sự ra đời của ĐCS là sự kết hợp?",
+        "ans": "Chủ nghĩa Mác-lênin với phong trào công nhân"
+      },
+      {
+        "id": 56,
+        "ask": "Câu 56: Phong trào đấu tranh của giai cấp công nhân chuyển từ tự phát sang tự giác khi nào?",
+        "ans": "Khi có lý luận của CNXHKH và ĐCS lãnh đạo"
+      },
+      {
+        "id": 57,
+        "ask": "Câu 57: ĐCS tổ chức và sinh hoạt theo nguyên tắc cơ bản nào?",
+        "ans": "Tập trung dân chủ"
+      },
+      {
+        "id": 58,
+        "ask": "Câu 58: Điền vào chỗ trống: ĐCS là đội tiên phong  của ...   đại biểu trung thành cho ... của giai cấp công nhân vào dục... cho giai cấp công nhân”?",
+        "ans": "Chính trị/ chính trị, tư tưởng "
+      },
+      {
+        "id": 69,
+        "ask": "Câu 69: Điền vào chỗ trống: song song với việc xây dựng giai cấp công nhân , tại đại hội XIII Đảng ta xác định: “Tiếp tục đẩy mạnh… toàn diện, tăng cường bản chất giai cấp công nhân của Đảng, đổi mới … nâng cao lực lãnh đạo cầm quyền của Đảng”.?",
+        "ans": "Xây dựng, chỉnh đốn Đảng- phương thức lãnh đạo"
+      },
+      {
+        "id": 70,
+        "ask": "Câu 70: Trong chiến lược trọng tâm và khâu đột phá của Đại hội XIII, Đảng ta dành sự quan tâm đầu tư để xây dựng tổ chức lãnh đạo của GCCN, xây dựng Đảng ta thực sự là..., là lực lượng … đủ sức mạnh lãnh đạo GCCN và toàn thể nhân dân tiến lên xây dựng đất nước giàu đẹp.?",
+        "ans": "Hạt nhân chính trị- nòng cốt"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chapter": "Chương III: Chủ nghĩa xã hội  và thời kỳ quá độ lên chủ nghĩa xã hội",
+    "questions": [
+      {
+        "id": 71,
+        "ask": "Câu 71: Theo CN Mác-Lênin, CNXH là giai đoạn nào của hình thái kinh tế-xã hội CSCN?",
+        "ans": "Giai đoạn thấp"
+      },
+      {
+        "id": 72,
+        "ask": "Câu 72: Theo CN Mác-Lênin, sự thay thế hình thái kinh tế-xã hội TBCN bằng hình thái kinh tế xã hội CSCN được thực hiện thông qua?",
+        "ans": "Cách mạng XHCN"
+      },
+      {
+        "id": 73,
+        "ask": "Câu 73: Theo CN Mác-Lênin, CNXH được tiếp cận từ 4 gốc độ?",
+        "ans": "1 trào lưu thực tiễn, 1 trào lưu tư tưởng lý luận, 1 khoa học, 1 chế độ xã hội."
+      },
+      {
+        "id": 74,
+        "ask": "Câu 74: CNXH ra đời xuất phát từ những điều kiện nào?",
+        "ans": "ĐK KT, CT-XH"
+      },
+      {
+        "id": 75,
+        "ask": "Câu 75: Theo quan điểm của Mác-Lênin CNXH có mấy đặc trưng cơ bản?",
+        "ans": "6 đặc trưng"
+      },
+      {
+        "id": 76,
+        "ask": "Câu 76: Trong các đặc trưng của CNXH, đặc trưng nào thể hiện bản chất của CNXH?",
+        "ans": "CNXH là 1 chế độ xã hội do nhân dân làm chủ."
+      },
+      {
+        "id": 77,
+        "ask": "Câu 77: Trong các đặc trưng CNXH, đặc trưng nào thể hiện thuộc tính, bản chất của XH?",
+        "ans": "Đặc trưng thứ nhất: CNXH giải phóng giai cấp, giải phóng dân tộc, giải phóng XH, con người, tạo điều kiện để con người phát triển toàn diện."
+      },
+      {
+        "id": 78,
+        "ask": "Câu 78: Theo quan điểm Mác-Lênin CNXH có nền KT phát triển cao dựa trên?",
+        "ans": "Lực lượng sản xuất hiện đại và chế độ công hữu về tư liệu sản xuất chủ yếu."
+      },
+      {
+        "id": 79,
+        "ask": "Câu 79: C.Mác khẳng định: “Giữa xã hội tư bản chủ nghĩa và xã hội cộng sản chủ nghĩa là một thời kỳ... từ xã hội nọ sang xã hội kia. Thích ứng với thời kỳ ấy là một thời kỳ..., và nhà nước của thời kỳ ấy không thể là cái gì khác hơn là nền chuyên chính cách mạng của...”?",
+        "ans": "Cải biến cách mạng- quá độ chính trị- giai cấp vô sản"
+      },
+      {
+        "id": 80,
+        "ask": "Câu 80: Điền vào chỗ trống V.I.Lenin trong điều kiện nước Nga Xô Viết cũng khẳng định: “Về …, không thể nghi ngờ gì được rằng giữa chủ nghĩa tư bản và chủ nghĩa cộng sản, có một thời kỳ...”?",
+        "ans": "Lý luận/Quá độ nhất định"
+      },
+      {
+        "id": 81,
+        "ask": "Câu 81: Thực chất thời kỳ quá độ lên CNXH là gì?",
+        "ans": "Những tàn tích của xã hội củ và những nhân tố mới của CNXH tồn tại đan xen trên tất cả lĩnh vực và đời sống xã hội."
+      },
+      {
+        "id": 82,
+        "ask": "Câu 82: Đặc điểm cơ bản của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+        "ans": "Thời kỳ cải biến cách mạng sâu sắc, triệt để từ XH cũ sang XH mới trên tất cả các lĩnh vực đời sống xã hội, xây dựng từng bước cơ sở vật chất kỹ thuật của CNXH."
+      },
+      {
+        "id": 92,
+        "ask": "Câu 92: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định xã hội XHCN mà nhân dân ta xây dựng có mấy phương hướng cơ bản?",
+        "ans": "8 phương hướng"
+      },
+      {
+        "id": 93,
+        "ask": "Câu 93: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định phương hướng xây dựng CNXH ở nước ta là?",
+        "ans": "Đẩy mạnh CNH-HĐH đất nước, gắn với phát triển kinh tế tri thức, bảo vệ tài nguyên môi trường."
+      },
+      {
+        "id": 94,
+        "ask": "Câu 94: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định phương hướng phát triển kinh tế trong việc xây dựng CNXH ở nước ta hiện nay?",
+        "ans": "Phát triển nền kinh tế thị trường định hướng xã hội chủ nghĩa."
+      },
+      {
+        "id": 95,
+        "ask": "Câu 95: Đại hội đại biểu toàn quốc lần thứ XIII của Đảng một lần nữa lại khẳng định và nhấn mạnh: “Qua 35 năm tiến hành công cuộc đổi mới, 30 năm thực hiện Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH,...?",
+        "ans": "Lý luận về đường lối đổi mới về CNXH và con đường đi lên CNXH ở nước ta ngày càng được hoàn thiện và từng bước được thực hiện hóa."
+      },
+      {
+        "id": 96,
+        "ask": "Câu 96: ĐH XIII đảng ta đã đánh giá thành tựu sau 35 năm đổi mới, chúng ta đã đạt được?",
+        "ans": "Chúng ta đã đạt được những thành tựu to lớn, có ý nghĩa lịch sử, phát triển mạnh mẽ, toàn diện hơn so với những năm trước đổi mới."
+      },
+      {
+        "id": 97,
+        "ask": "Câu 97: Khẳng định sau đây trong văn kiện nào: “Đất nước ta chưa bao giờ có được cơ đồ, tiềm lực, vị thế và uy tín quốc tế như ngày nay”?",
+        "ans": "ĐH XIII của đảng"
+      },
+      {
+        "id": 98,
+        "ask": "Câu 98: ĐH XIII của đảng xác định mục tiêu đến năm 2025 là gì?",
+        "ans": "Là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp."
+      },
+      {
+        "id": 99,
+        "ask": "Câu 99: ĐH XIII của đảng xác định mục tiêu đến năm 2030 là gì? ",
+        "ans": "Là nước đang phát triển có công nghiệp hiện đại, thu nhập trung bình cao"
+      },
+      {
+        "id": 100,
+        "ask": "Câu 100: ĐH XIII của đảng xác định mục tiêu đến năm 2045 là gì?",
+        "ans": "Trở thành nước phát triển, thu nhập cao"
+      },
+      {
+        "id": 101,
+        "ask": "Câu 101: ĐH XIII của đảng xác định mấy định hướng phát triển đất nước 2021-2030?",
+        "ans": "12 định hướng"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chapter": "Chương IV: Dân chủ XHCN và nhà nước XHCN",
+    "questions": [
+      {
+        "id": 102,
+        "ask": "Câu 102: Dân chủ có nghĩa chung nhất là gì?",
+        "ans": "Quyền lực của nhân dân hay quyền lực thuộc về nhân dân"
+      },
+      {
+        "id": 103,
+        "ask": "Câu 103: Dân chủ là 1 giá trị xã hội phản ánh những quyền … của con người.?",
+        "ans": "Cơ bản"
+      },
+      {
+        "id": 104,
+        "ask": "Câu 104: Khái niệm dân chủ lần đầu tiên xuất hiện vào thời kì nào?",
+        "ans": "Chiếm hữu nô lệ"
+      },
+      {
+        "id": 105,
+        "ask": "Câu 105: Các chế độ dân chủ trong lịch sử là? ",
+        "ans": "3 ( chủ nô, tư sản, XHCN)"
+      },
+      {
+        "id": 106,
+        "ask": "Câu 106: Điều tiến bộ của Dân chủ tư sản là?",
+        "ans": "Thủ tiêu chế độ quân chủ chuyên chế"
+      },
+      {
+        "id": 107,
+        "ask": "Câu 107: Hạn chế của Dân chủ tư sản?",
+        "ans": "Quyền lực kinh tế chính trị nằm trong tay giai cấp tư sản"
+      },
+      {
+        "id": 108,
+        "ask": "Câu 108: Dân chủ XHCN và nhà nước XHCN ra đời khi nào?",
+        "ans": "Sau thắng lợi CMT10 Nga 1917"
+      },
+      {
+        "id": 109,
+        "ask": "Câu 109: Nền dân chủ XHCN khác với nền dân chủ khác ở điểm cơ bản nào?",
+        "ans": "Dân chủ XHCN là rộng rãi nhất trong lịch sử"
+      },
+      {
+        "id": 110,
+        "ask": "Câu 110: Nhà nước không dân chủ là nhà nước nào?",
+        "ans": "Nhà nước phong kiến"
+      },
+      {
+        "id": 111,
+        "ask": "Câu 111: Điền vào chỗ trống: V.I.LÊNIN đã diễn đạt một cách khái quát về bản chất và mục tiêu của dân chủ XHCN rằng: “ Chế độ dân chủ vô sản so với bất cứ chế độ dân chủ tư sản nào, cũng dân chủ hơn...”?",
+        "ans": "Gấp triệu lần"
+      },
+      {
+        "id": 112,
+        "ask": "Câu 112: Điền vào chỗ trống: Dân chủ XHCN là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại, là nền dân chủ mà ở đó,...  đặc dưới sự lãnh đạo của… ,dân là chủ và dân làm chủ; dân chủ và pháp luật nằm trong sự thống nhất biện chứng; được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa”?",
+        "ans": "Mọi quyền lực thuộc về nhân dân- Đảng Cộng sản"
+      },
+      {
+        "id": 113,
+        "ask": "Câu 113: Dân chủ XHCN mang bản chất giai cấp nào?",
+        "ans": "Giai cấp công nhân"
+      },
+      {
+        "id": 114,
+        "ask": "Câu 114: Bản chất chính trị dân chủ XHCN được hiểu là?",
+        "ans": "Dưới sự lãnh đạo duy nhất của một đảng của giai cấp công nhân mà trên mọi lĩnh vực xã hội đều thực hiện quyền lực của nhân dân"
+      },
+      {
+        "id": 115,
+        "ask": "Câu 115: Bản chất kinh tế của DCXHCN được hiểu là?",
+        "ans": "Dựa trên chế độ sở hữu xh về những tư liệu sản xuất chủ yếu của toàn xã hội "
+      },
+      {
+        "id": 116,
+        "ask": "Câu 116: Bản chất tư tưởng- văn hóa- xã hội của DCXHCN được hiểu là?",
+        "ans": "Lấy hệ tư tưởng Mác-lênin làm tư tưởng của giai cấp công nhân, làm chủ đạo đối với mọi hình thức ý thức xã hội khác trong xã hội mới."
+      },
+      {
+        "id": 117,
+        "ask": "Câu 117: Dân chủ XHCN và nhà nước XHCN ở Việt Nam ra đời khi nào?",
+        "ans": "Từ sau thắng lợi CMT8/1945"
+      },
+      {
+        "id": 118,
+        "ask": "Câu 118: Bàn về quyền làm chủ của nhân dân trên lĩnh vực chính trị, HCM cũng đã chỉ rõ: Trong chế độ dân chủ XHCN thì bao nhiêu...đều là của dân, bao nhiêu … đều là ở dân, bao nhiêu … đều là vì dân,..”?",
+        "ans": "Dân chủ trực tiếp và dân chủ đại diện"
+      },
+      {
+        "id": 119,
+        "ask": "Câu 119: Dân chủ XHCN ở VN được thực hiện dưới hình thức nào?",
+        "ans": "thụ hưởng - nồng cốt"
+      },
+      {
+        "id": 120,
+        "ask": "Câu 120: Đại hội XIII của Đảng xác định phương châm: “Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân …, đồng thời xác định rõ hơn vai trò của Đảng lãnh đạo, nhà nước quản lý, mặt trận tổ quốc và các tổ chức chính trị làm…”?",
+        "ans": "Quyền làm chủ"
+      },
+      {
+        "id": 121,
+        "ask": "Câu 121: Điền vào chỗ trống: ĐH 13: “Xử lí kịp thời, nghiêm minh những tổ chức, cá nhân lợi dụng dân chủ, gây rối nội bộ, làm mất ổn định chính trị-xã hội hoặc vi phạm dân chủ, làm phương hại đến ... của nhân dân”?",
+        "ans": "Chiếm hữu nô lệ"
+      },
+      {
+        "id": 122,
+        "ask": "Câu 122: Khái niệm nhà nước (chủ nô, dân chủ) xuất hiện sớm nhất vào thời kì nào?",
+        "ans": "4 kiểu ( chủ nô, phong kiến, tư sản, XHCN)"
+      },
+      {
+        "id": 123,
+        "ask": "Câu 123: Các kiểu nhà nước trong lịch sử ?",
+        "ans": "4 kiểu ( chủ nô, phong kiến, tư sản, XHCN)"
+      },
+      {
+        "id": 124,
+        "ask": "Câu 124: KN nhà nước XHCN là một kiểu nhà nước mà ở đó, sự thống trị chính trị thuộc về ..., do cách mạng XHCN sản sinh ra và có sứ mệnh xây dựng thành công CNXH, đưa … lên địa vị làm chủ trên tất cả các mặt của đời sống XH.?",
+        "ans": "Giai cấp công nhân- nhân dân lao động"
+      },
+      {
+        "id": 125,
+        "ask": "Câu 125: Bản chất chính trị của nhà nước XHCN được hiểu là?",
+        "ans": "Mang bản chất của GCCN- giai cấp có lợi ích phù hợp với lợi ích chung của nhân dân lao động."
+      },
+      {
+        "id": 126,
+        "ask": "Câu 126: Bản chất kinh tế của nhà nước XHCN được hiểu là?",
+        "ans": "Chịu sự quy định của chế độ sở hữu xã hội về tư liệu sản xuất chủ yếu"
+      },
+      {
+        "id": 127,
+        "ask": "Câu 127: Bản chất tư tưởng văn hóa của nhà nước XHCN được hiểu là?",
+        "ans": "Được xây dựng trên nền tảng tinh thần là lý luận của chủ nghĩa Mác-Lênin và những giá trị văn hóa của nhân loại"
+      },
+      {
+        "id": 128,
+        "ask": "Câu 128: Nhà nước pháp quyền là 1 kiểu nhà nước mà ở đó, tất cả... đều được giáo dục pháp luật và phải biết pháp luật, tuân thủ pháp luật, pháp luật đảm bảo tính nghiêm minh; trong hoạt động của các cơ quan nhà nước, phải có sự phân công, phối hợp, kiểm soát lẫn nhau , tất cả vì mục tiêu...”?",
+        "ans": "Mọi công nhân/ phục vụ nhân dân"
+      },
+      {
+        "id": 129,
+        "ask": "Câu 129: Nhà nước pháp quyền XHCN quản lí mọi mặt của đời sống xh chủ yếu bằng?",
+        "ans": "Hiến pháp pháp luật"
+      },
+      {
+        "id": 130,
+        "ask": "Câu 130: Nhà nước pháp trị và nhà nước pháp quyền có điểm nào giống nhau?",
+        "ans": "Dùng pháp luật để quản lí XH"
+      },
+      {
+        "id": 131,
+        "ask": "Câu 131: Hệ thống chính trị XHCN ở VN hiện nay bao gồm?",
+        "ans": "3 tổ chức ( ĐCSVN, nhà nước XHCNVN, mặt trận tổ quốc vn và các tổ chức chính trị xã hội)"
+      },
+      {
+        "id": 132,
+        "ask": "Câu 132: Cho đến nay nhà nước ta đã ban hành mấy bản hiến pháp?",
+        "ans": "5 bản "
+      },
+      {
+        "id": 133,
+        "ask": "Câu 133: Để làm rõ hơn nhà nước pháp quyền ĐH 13 của đảng nhấn mạnh :” quyền lực nhà nước là ...., có sự phân công rành mạch, phối hợp chặt chẽ và … kiểm soát quyền lực nhà nước?",
+        "ans": "Thống nhất- tăng cường"
+      },
+      {
+        "id": 134,
+        "ask": "Câu 134: Điền vào chỗ trống: ĐH 13 của đảng nêu rõ: xây dựng và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa trong sạch, vững mạnh, tinh gọn, hoạt động hiệu lực, hiệu quả, vì ..... tiếp tục… đấu tranh phòng chống tham nhũng quan liêu lãng phí, tội phạm và tệ nạn xã hội?",
+        "ans": "Nhân dân dân phục vụ- đẩy mạnh"
+      },
+      {
+        "id": 135,
+        "ask": "Câu 135: Xây dựng và hoàn thiện Nhà nước pháp quyền XHCNVN được coi là nhiệm vụ… và 1 trong những đột phá chiến lược của Đại hội XIII",
+        "ans": "Trọng tâm"
+      }
+    ]
+  }
+]
