@@ -8,13 +8,16 @@
             top: 1rem;
             left: 1rem;
             cursor: pointer;
+            z-index: 50;
+            border: none;
+            outline: none;
         }
         .navbar {
             justify-content: center;
             align-items: center;
 
             .title {
-                font-size: 30px;
+                font-size: 0.7rem;
                 font-weight: 600;
                 text-transform: uppercase;
             }
@@ -27,6 +30,7 @@
             border: none;
             outline: none;
             background-color: transparent;
+            z-index: 50;
         }
     }
 

@@ -13,7 +13,7 @@ code {
     monospace;
 }
 .popover{
-  max-width: 450px !important;
+  max-width: 80vw !important;
 }
 .icon{
   font-size: 2rem;

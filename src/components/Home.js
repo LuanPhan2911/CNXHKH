@@ -258,10 +258,9 @@ const Home = ({ colors, fontFamily }) => {
   return (
     <div className="container">
       <div className="header">
-        <BsMenuUp
-          className="icon menu"
-          onClick={() => handleShowHideSideBar()}
-        />
+        <button className="menu">
+          <BsMenuUp className="icon" onClick={() => handleShowHideSideBar()} />
+        </button>
         <div className="navbar">
           <div className="title">Chủ nghĩa xã hội khoa học</div>
         </div>
@@ -323,7 +322,7 @@ const Home = ({ colors, fontFamily }) => {
                   <div className="questions" key={item.id}>
                     <div
                       className={item.marked ? "ask marked" : "ask"}
-                      onDoubleClick={() => handleMarkAsk(item.id)}
+                      onClick={() => handleMarkAsk(item.id)}
                     >
                       {item.ask}
                     </div>
