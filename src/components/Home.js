@@ -30,8 +30,6 @@ const Home = ({ colors, fontFamily }) => {
   const [chapters, setChapters] = useState([]);
   const [questions, setQuestions] = useState([]);
 
-  const [sidebar, setSideBar] = useState(true);
-
   const selectedFontFamily = useSelector((state) => state.app.fontFamily);
   const fontSize = useSelector((state) => state.app.fontSize);
   const askMarked = useSelector((state) => state.app.askMarked);
@@ -123,15 +121,6 @@ const Home = ({ colors, fontFamily }) => {
         }
       });
     setQuestions([...questionsCopy]);
-  };
-  const handleShowHideSideBar = () => {
-    let contentNode = document.querySelector(".content");
-    if (sidebar) {
-      contentNode.style.width = "100%";
-    } else {
-      contentNode.style.width = "80%";
-    }
-    setSideBar(!sidebar);
   };
   const handleChangeFontSize = (id) => {
     let copyFontSize = fontSize;
@@ -255,12 +244,41 @@ const Home = ({ colors, fontFamily }) => {
       </Popover.Body>
     </Popover>
   );
+  const Menu = (
+    <Popover id="popover">
+      <Popover.Header as="h3">Danh sách chương</Popover.Header>
+      <Popover.Body>
+        <ul className="list-group">
+          {chapters?.length > 0 &&
+            chapters.map((item) => {
+              return (
+                <li
+                  className={
+                    item.active ? "list-group-item active" : "list-group-item"
+                  }
+                  style={{
+                    cursor: "pointer",
+                    fontWeight: "600",
+                  }}
+                  key={item.id}
+                  onClick={() => handleSetChapter(item.id)}
+                >
+                  {item.chapter}
+                </li>
+              );
+            })}
+        </ul>
+      </Popover.Body>
+    </Popover>
+  );
   return (
     <div className="container">
       <div className="header">
-        <button className="menu">
-          <BsMenuUp className="icon" onClick={() => handleShowHideSideBar()} />
-        </button>
+        <OverlayTrigger trigger={["click"]} placement="right" overlay={Menu}>
+          <button className="menu">
+            <BsMenuUp className="icon" />
+          </button>
+        </OverlayTrigger>
         <div className="navbar">
           <div className="title">Chủ nghĩa xã hội khoa học</div>
         </div>
@@ -272,35 +290,6 @@ const Home = ({ colors, fontFamily }) => {
         </OverlayTrigger>
       </div>
       <div className="main">
-        {sidebar ? (
-          <div className="sidebar">
-            <ul className="list-group">
-              {chapters?.length > 0 &&
-                chapters.map((item) => {
-                  return (
-                    <li
-                      className={
-                        item.active
-                          ? "list-group-item active"
-                          : "list-group-item"
-                      }
-                      style={{
-                        cursor: "pointer",
-                        fontWeight: "600",
-                      }}
-                      key={item.id}
-                      onClick={() => handleSetChapter(item.id)}
-                    >
-                      {item.chapter}
-                    </li>
-                  );
-                })}
-            </ul>
-          </div>
-        ) : (
-          <></>
-        )}
-
         <div
           className="content"
           style={{
