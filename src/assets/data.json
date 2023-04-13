@@ -45,7 +45,7 @@
       },
       {
         "id": 9,
-        "ask": "Câu 9: Ai là người khẳng định, kế thừa 3 bộ phận CN Mac. “Nó là người thừa kế chính đáng của tất cả những cái tốt đẹp nhất mà loài người đã tạo ra hồi thế kỷ XIX, đó là triết học Đức, kinh tế chính trị học Anh và chủ nghĩa xã hội Pháp?",
+        "ask": "Câu 9: Ai là người khẳng định, kế thừa 3 bộ phận CN Mac. “Nó là người thừa kế chính đáng của tất cả những cái tốt đẹp nhất mà loài người đã tạo ra hồi thế kỷ XIX, đó là triết học Đức, kinh tế chính trị học Anh và chủ nghĩa xã hội Pháp”?",
         "ans": "V.I.Lenin"
       },
       {
@@ -55,7 +55,7 @@
       },
       {
         "id": 11,
-        "ask": "Câu 11: Tiền đề khách quan 🡪 ra đời CNXHKH?",
+        "ask": "Câu 11: Tiền đề khách quan ra đời CNXHKH?",
         "ans": "Tiền đề KHTN và tư tưởng lý luận."
       },
       {
@@ -160,7 +160,7 @@
       },
       {
         "id": 32,
-        "ask": "Câu 32: Điền vào chỗ trống. Theo quan niệm: giai cấp công nhân là một tập đoàn xã hội, hình thành và phát triển cùng với quá trình phát triển của nền … hiện đại. Họ lao động bằng … ngày càng hiện đại và gắn liền với quá trình … hiện đại?",
+        "ask": "Câu 32: Điền vào chỗ trống. Theo quan niệm: “Giai cấp công nhân là một tập đoàn xã hội, hình thành và phát triển cùng với quá trình phát triển của nền … hiện đại. Họ lao động bằng … ngày càng hiện đại và gắn liền với quá trình … hiện đại”?",
         "ans": "Công nghiệp - phương thức - sản xuất vật chất"
       },
       {
@@ -176,7 +176,7 @@
     "questions": [
       {
         "id": 34,
-        "ask": "Câu 34: Điền vào chỗ trống: Giai cấp công nhân là giai cấp duy nhất có ... xóa bỏ tư bản, xóa bỏ các chế độ người bóc lột người, giải phóng giai cấp công nhân?",
+        "ask": "Câu 34: Điền vào chỗ trống: “Giai cấp công nhân là giai cấp duy nhất có ... xóa bỏ tư bản, xóa bỏ các chế độ người bóc lột người, giải phóng giai cấp công nhân?”",
         "ans": "Sứ mệnh lịch sử"
       },
       {
@@ -216,7 +216,7 @@
       },
       {
         "id": 42,
-        "ask": "Câu 42: Theo Mác: “mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa cao và quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân về tư liệu sản xuất biểu hiện về mặt xã hội là mâu thuẫn giữa?",
+        "ask": "Câu 42: Theo Mác: “Mâu thuẫn giữa lực lượng sản xuất mang tính xã hội hóa cao và quan hệ sản xuất dựa trên chế độ chiếm hữu tư nhân về tư liệu sản xuất biểu hiện về mặt xã hội là mâu thuẫn giữa”?",
         "ans": "Giai cấp công nhân và giai cấp tư sản."
       },
       {
@@ -231,12 +231,12 @@
       },
       {
         "id": 45,
-        "ask": "Câu 45: Giai cấp công nhân là giai cấp ... và có tinh thần…?",
+        "ask": "Câu 45: Điền vào chỗ trống: “Giai cấp công nhân là giai cấp ... và có tinh thần ... ”?",
         "ans": "Tiên phong cách mang (CM) / Cách mạng triệt để"
       },
       {
         "id": 46,
-        "ask": "Câu 46: Trong tác phẩm Tuyên ngôn của ĐCS: “ Trong tất cả các giai cấp đang đối lập với giai cấp tư sản thi chỉ có… là thực sự cách mạng các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là…  của bản thân nền đại công nghiệp.”?",
+        "ask": "Câu 46: Trong tác phẩm Tuyên ngôn của ĐCS: “Trong tất cả các giai cấp đang đối lập với giai cấp tư sản thi chỉ có… là thực sự cách mạng các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản là ...  của bản thân nền đại công nghiệp.”?",
         "ans": "Giai cấp vô sản - Sản phẩm"
       },
       {
@@ -296,12 +296,12 @@
       },
       {
         "id": 58,
-        "ask": "Câu 58: Điền vào chỗ trống: ĐCS là đội tiên phong  của ...   đại biểu trung thành cho ... của giai cấp công nhân và nhân dân lao động?",
+        "ask": "Câu 58: Điền vào chỗ trống: “ĐCS là đội tiên phong  của ...   đại biểu trung thành cho ... của giai cấp công nhân và nhân dân lao động”?",
         "ans": "Giai cấp công nhân/ Lợi ích, trí tuệ"
       },
       {
         "id": 59,
-        "ask": "Câu 59: Điền vào chỗ trống: ĐCS bao gồm ...trong giai cấp công nhân được trang bị lý luận ... cách mạng?",
+        "ask": "Câu 59: Điền vào chỗ trống: “ĐCS bao gồm ...trong giai cấp công nhân được trang bị lý luận ... cách mạng”?",
         "ans": "Những người tiên phong/ khoa học"
       },
       {
@@ -316,8 +316,8 @@
       },
       {
         "id": 62,
-        "ask": "Câu 62: Giai cấp công nhân Việt Nam là một … to lớn, đang phát triển bao gồm những người lao động…?",
-        "ans": "lực lượng xã hội- chân tay, trí óc"
+        "ask": "Câu 62: Điền vào chỗ trống: “Giai cấp công nhân Việt Nam là một … to lớn, đang phát triển bao gồm những người lao động ...”?",
+        "ans": "Lực lượng xã hội- chân tay, trí óc"
       },
       {
         "id": 63,
@@ -331,32 +331,32 @@
       },
       {
         "id": 65,
-        "ask": "Câu 65: Điền vào chỗ trống: Đại biểu trung thành cho... của gccn và nhân dân lao động, lấy chủ nghĩa Mác-lênin làm nền tảng tư tưởng và kim chỉ nam cho hành động, lấy nguyên tắc… làm nguyên tắc tổ chức cơ bản của Đảng?",
+        "ask": "Câu 65: Điền vào chỗ trống: “Đại biểu trung thành cho ... của gccn và nhân dân lao động, lấy chủ nghĩa Mác-lênin làm nền tảng tư tưởng và kim chỉ nam cho hành động, lấy nguyên tắc ... làm nguyên tắc tổ chức cơ bản của Đảng”?",
         "ans": "Lợi ích/ Tập trung dân chủ"
       },
       {
         "id": 66,
-        "ask": "Câu 66: Giai cấp công nhân nước ta có sứ mệnh lịch sử to lớn, là giai cấp lãnh đạo cách mạng thông qua đội tiên phong là?",
+        "ask": "Câu 66: Điền vào chỗ trống:“Giai cấp công nhân nước ta có sứ mệnh lịch sử to lớn, là giai cấp lãnh đạo cách mạng thông qua đội tiên phong là”?",
         "ans": "Đảng cộng sản Việt Nam"
       },
       {
         "id": 67,
-        "ask": "Câu 67: Giai cấp đại diện cho … lực lượng … trong sự nghiệp công nghiệp hóa- hiện đại hóa đất nước, lực lượng …trong liên minh giai cấp công nhân và giai cấp nông dân và đội ngũ trí thức dưới sự lãnh đạo của Đảng?",
+        "ask": "Câu 67: Điền vào chỗ trống: “Giai cấp đại diện cho … lực lượng … trong sự nghiệp công nghiệp hóa- hiện đại hóa đất nước, lực lượng …trong liên minh giai cấp công nhân và giai cấp nông dân và đội ngũ trí thức dưới sự lãnh đạo của Đảng”?",
         "ans": "phương thức sản xuất tiên tiến -đi đầu - nòng cốt"
       },
       {
         "id": 68,
-        "ask": "Câu 68: Điền vào chỗ trống: “xây dựng giai cấp công nhân hiện đại, lớn mạnh; nâng cao bản lĩnh..., trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp, kỹ luật lao động thích ứng với cuộc CM công nghiệp lần thứ 4. Tăng cường giáo dục... cho giai cấp công nhân”?",
+        "ask": "Câu 68: Điền vào chỗ trống: “Xây dựng giai cấp công nhân hiện đại, lớn mạnh; nâng cao bản lĩnh..., trình độ học vấn, chuyên môn, kỹ năng nghề nghiệp, tác phong công nghiệp, kỹ luật lao động thích ứng với cuộc CM công nghiệp lần thứ 4. Tăng cường giáo dục... cho giai cấp công nhân”?",
         "ans": "Chính trị - chính trị, tư tưởng "
       },
       {
         "id": 69,
-        "ask": "Câu 69: Điền vào chỗ trống: song song với việc xây dựng giai cấp công nhân , tại đại hội XIII Đảng ta xác định: “Tiếp tục đẩy mạnh… toàn diện, tăng cường bản chất giai cấp công nhân của Đảng, đổi mới … nâng cao lực lãnh đạo cầm quyền của Đảng”.?",
+        "ask": "Câu 69: Điền vào chỗ trống: “Song song với việc xây dựng giai cấp công nhân , tại đại hội XIII Đảng ta xác định: “Tiếp tục đẩy mạnh… toàn diện, tăng cường bản chất giai cấp công nhân của Đảng, đổi mới … nâng cao lực lãnh đạo cầm quyền của Đảng”.?",
         "ans": "Xây dựng, chỉnh đốn Đảng- phương thức lãnh đạo"
       },
       {
         "id": 70,
-        "ask": "Câu 70: Trong chiến lược trọng tâm và khâu đột phá của Đại hội XIII, Đảng ta dành sự quan tâm đầu tư để xây dựng tổ chức lãnh đạo của GCCN, xây dựng Đảng ta thực sự là..., là lực lượng … đủ sức mạnh lãnh đạo GCCN và toàn thể nhân dân tiến lên xây dựng đất nước giàu đẹp.?",
+        "ask": "Câu 70: Trong chiến lược trọng tâm và khâu đột phá của Đại hội XIII, Đảng ta dành sự quan tâm đầu tư để xây dựng tổ chức lãnh đạo của GCCN, “Xây dựng Đảng ta thực sự là..., là lực lượng … đủ sức mạnh lãnh đạo GCCN và toàn thể nhân dân tiến lên xây dựng đất nước giàu đẹp.”?",
         "ans": "Hạt nhân chính trị- nòng cốt"
       }
     ]
@@ -426,6 +426,51 @@
         "ans": "Thời kỳ cải biến cách mạng sâu sắc, triệt để từ XH cũ sang XH mới trên tất cả các lĩnh vực đời sống xã hội, xây dựng từng bước cơ sở vật chất kỹ thuật của CNXH."
       },
       {
+        "id": 83,
+        "ask": "Câu 83: Đặc điểm cơ bản về  lĩnh vực Kinh tế TKQĐ từ chủ nghĩa tư bản lên chủ nghĩa XH?",
+        "ans": "Tồn tại nhiều thành phần kinh tế"
+      },
+      {
+        "id": 84,
+        "ask": "Câu 84: Đặc điểm cơ bản về mặt lĩnh vực chính trị TKQĐ từ chủ nghĩa tư bản lên CNXH?",
+        "ans": "Tồn tại nhiều giai cấp và các tầng lớp xh khác nhau"
+      },
+      {
+        "id": 85,
+        "ask": "Câu 85: Đường lối cơ bản xuyên suốt của CM việt Nam là đặc điểm cốt yếu trong di sản HCM?",
+        "ans": "Độc lập dân tộc gắn liền với CNXH"
+      },
+      {
+        "id": 86,
+        "ask": "Câu 86: Điền vào chỗ trống: Năm 1930, trong Cương lĩnh chính trị của mình, ĐCSVN đã chủ trương: “Tiến hành cách mạng …do giai cấp công nhân lãnh đạo, tiến lên chủ nghĩa xã hội,...”?",
+        "ans": "Dân tộc dân chủ nhân dân/Bỏ qua giai đoạn tư bản chủ nghĩa"
+      },
+      {
+        "id": 87,
+        "ask": "Câu 87: TKQĐ lên CNXH trên phạm vi cả nước ta bắt đầu từ năm nào?",
+        "ans": "1975"
+      },
+      {
+        "id": 88,
+        "ask": "Câu 88: Đại hội IX xác định, con đường đi lên của nước ta là sự phát triển quá độ lên CNXH, bỏ qua chế độ TBCN tức là?",
+        "ans": "Bỏ qua chế độ áp bức, bất công, bóc lột TBCN, bỏ qua những thói hư, tật xấu, những thiết chế, thể chế chính trị, không phù hợp với chế độ XHCN."
+      },
+      {
+        "id": 89,
+        "ask": "Câu 89: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định xã hội XHCN mà nhân dân ta xây dựng có mấy đặc trưng cơ bản?",
+        "ans": "8 đặc trưng"
+      },
+      {
+        "id": 90,
+        "ask": "Câu 90: Đặc trưng nào là mục tiêu, tổng quát đối với xây dựng CNXH của nước ta?",
+        "ans": "Dân giàu, nước mạnh, dân chủ, công bằng, văn minh"
+      },
+      {
+        "id": 91,
+        "ask": "Câu 91: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định đặc trưng về kinh tế của xã hội XHCN mà nhân dân ta xây dựng là?",
+        "ans": "Có nền kinh tế phát triển cao dựa trên lực lượng sản xuất hiện đại và quan hệ sản xuất phù hợp"
+      },
+      {
         "id": 92,
         "ask": "Câu 92: Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH bổ sung năm 2011 , Đảng ta xác định xã hội XHCN mà nhân dân ta xây dựng có mấy phương hướng cơ bản?",
         "ans": "8 phương hướng"
@@ -442,7 +487,7 @@
       },
       {
         "id": 95,
-        "ask": "Câu 95: Đại hội đại biểu toàn quốc lần thứ XIII của Đảng một lần nữa lại khẳng định và nhấn mạnh: “Qua 35 năm tiến hành công cuộc đổi mới, 30 năm thực hiện Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH,...?",
+        "ask": "Câu 95: Đại hội đại biểu toàn quốc lần thứ XIII của Đảng một lần nữa lại khẳng định và nhấn mạnh: “Qua 35 năm tiến hành công cuộc đổi mới, 30 năm thực hiện Cương lĩnh xây dựng đất nước trong TKQĐ lên CNXH,...”?",
         "ans": "Lý luận về đường lối đổi mới về CNXH và con đường đi lên CNXH ở nước ta ngày càng được hoàn thiện và từng bước được thực hiện hóa."
       },
       {
@@ -488,7 +533,7 @@
       },
       {
         "id": 103,
-        "ask": "Câu 103: Dân chủ là 1 giá trị xã hội phản ánh những quyền … của con người.?",
+        "ask": "Câu 103: Điền vào chỗ trống: “Dân chủ là 1 giá trị xã hội phản ánh những quyền … của con người.”?",
         "ans": "Cơ bản"
       },
       {
@@ -533,7 +578,7 @@
       },
       {
         "id": 112,
-        "ask": "Câu 112: Điền vào chỗ trống: Dân chủ XHCN là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại, là nền dân chủ mà ở đó,...  đặc dưới sự lãnh đạo của… ,dân là chủ và dân làm chủ; dân chủ và pháp luật nằm trong sự thống nhất biện chứng; được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa”?",
+        "ask": "Câu 112: Điền vào chỗ trống: “Dân chủ XHCN là nền dân chủ cao hơn về chất so với nền dân chủ có trong lịch sử nhân loại, là nền dân chủ mà ở đó,...  đặc dưới sự lãnh đạo của… ,dân là chủ và dân làm chủ; dân chủ và pháp luật nằm trong sự thống nhất biện chứng; được thực hiện bằng nhà nước pháp quyền xã hội chủ nghĩa”?",
         "ans": "Mọi quyền lực thuộc về nhân dân- Đảng Cộng sản"
       },
       {
@@ -563,7 +608,7 @@
       },
       {
         "id": 118,
-        "ask": "Câu 118: Bàn về quyền làm chủ của nhân dân trên lĩnh vực chính trị, HCM cũng đã chỉ rõ: Trong chế độ dân chủ XHCN thì bao nhiêu...đều là của dân, bao nhiêu … đều là ở dân, bao nhiêu … đều là vì dân,..”?",
+        "ask": "Câu 118: Bàn về quyền làm chủ của nhân dân trên lĩnh vực chính trị, HCM cũng đã chỉ rõ: “Trong chế độ dân chủ XHCN thì bao nhiêu...đều là của dân, bao nhiêu … đều là ở dân, bao nhiêu … đều là vì dân...”?",
         "ans": "Dân chủ trực tiếp và dân chủ đại diện"
       },
       {
@@ -593,7 +638,7 @@
       },
       {
         "id": 124,
-        "ask": "Câu 124: KN nhà nước XHCN là một kiểu nhà nước mà ở đó, sự thống trị chính trị thuộc về ..., do cách mạng XHCN sản sinh ra và có sứ mệnh xây dựng thành công CNXH, đưa … lên địa vị làm chủ trên tất cả các mặt của đời sống XH.?",
+        "ask": "Câu 124: Điền vào chỗ trống: “Khái niệm nhà nước XHCN là một kiểu nhà nước mà ở đó, sự thống trị chính trị thuộc về ..., do cách mạng XHCN sản sinh ra và có sứ mệnh xây dựng thành công CNXH, đưa … lên địa vị làm chủ trên tất cả các mặt của đời sống XH.”?",
         "ans": "Giai cấp công nhân- nhân dân lao động"
       },
       {
@@ -613,7 +658,7 @@
       },
       {
         "id": 128,
-        "ask": "Câu 128: Nhà nước pháp quyền là 1 kiểu nhà nước mà ở đó, tất cả... đều được giáo dục pháp luật và phải biết pháp luật, tuân thủ pháp luật, pháp luật đảm bảo tính nghiêm minh; trong hoạt động của các cơ quan nhà nước, phải có sự phân công, phối hợp, kiểm soát lẫn nhau , tất cả vì mục tiêu...”?",
+        "ask": "Câu 128: Điền vào chỗ trống: “Nhà nước pháp quyền là 1 kiểu nhà nước mà ở đó, tất cả... đều được giáo dục pháp luật và phải biết pháp luật, tuân thủ pháp luật, pháp luật đảm bảo tính nghiêm minh; trong hoạt động của các cơ quan nhà nước, phải có sự phân công, phối hợp, kiểm soát lẫn nhau , tất cả vì mục tiêu...”?",
         "ans": "Mọi công nhân/ phục vụ nhân dân"
       },
       {
@@ -638,12 +683,12 @@
       },
       {
         "id": 133,
-        "ask": "Câu 133: Để làm rõ hơn nhà nước pháp quyền ĐH 13 của đảng nhấn mạnh :” quyền lực nhà nước là ...., có sự phân công rành mạch, phối hợp chặt chẽ và … kiểm soát quyền lực nhà nước?",
+        "ask": "Câu 133: Để làm rõ hơn nhà nước pháp quyền ĐH 13 của đảng nhấn mạnh : “Quyền lực nhà nước là ...., có sự phân công rành mạch, phối hợp chặt chẽ và … kiểm soát quyền lực nhà nước”?",
         "ans": "Thống nhất- tăng cường"
       },
       {
         "id": 134,
-        "ask": "Câu 134: Điền vào chỗ trống: ĐH 13 của đảng nêu rõ: xây dựng và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa trong sạch, vững mạnh, tinh gọn, hoạt động hiệu lực, hiệu quả, vì ..... tiếp tục… đấu tranh phòng chống tham nhũng quan liêu lãng phí, tội phạm và tệ nạn xã hội?",
+        "ask": "Câu 134: Điền vào chỗ trống: ĐH 13 của đảng nêu rõ: “Xây dựng và hoàn thiện nhà nước pháp quyền xã hội chủ nghĩa trong sạch, vững mạnh, tinh gọn, hoạt động hiệu lực, hiệu quả, vì ..... tiếp tục… đấu tranh phòng chống tham nhũng quan liêu lãng phí, tội phạm và tệ nạn xã hội”?",
         "ans": "Nhân dân dân phục vụ- đẩy mạnh"
       },
       {
@@ -694,22 +739,22 @@
       },
       {
         "id": 143,
-        "ask": "Câu 143: Giai cấp công nhân VN có vai trò quan trọng đặc biệt, là giai cấp … thông qua đội tiền phong là ĐCSVN; đại diện cho phương thức sản xuất tiên tiến; giữ vị trí tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội, là … trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, vì mục tiêu dân giàu, nước mạnh, dân chủ công bằng, văn minh và là.... trong liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức?",
+        "ask": "Câu 143: Điền vào chỗ trống: “Giai cấp công nhân VN có vai trò quan trọng đặc biệt, là giai cấp … thông qua đội tiền phong là ĐCSVN; đại diện cho phương thức sản xuất tiên tiến; giữ vị trí tiên phong trong sự nghiệp xây dựng chủ nghĩa xã hội, là … trong sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, vì mục tiêu dân giàu, nước mạnh, dân chủ công bằng, văn minh và là.... trong liên minh giai cấp công nhân với giai cấp nông dân và đội ngũ trí thức”?",
         "ans": "Lãnh đạo cách mạng - Lực lượng đi đầu - Lực lượng nòng cốt"
       },
       {
         "id": 144,
-        "ask": "Câu 144: Giai cấp nông dân với nông nghiệp, nông thôn có....trong sự nghiệp công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn gắn với xây dựng nông thôn mới, góp phần xây dựng và bảo vệ tổ quốc, là cơ sở và …?",
+        "ask": "Câu 144: Điền vào chỗ trống: “Giai cấp nông dân với nông nghiệp, nông thôn có....trong sự nghiệp công nghiệp hóa, hiện đại hóa nông nghiệp, nông thôn gắn với xây dựng nông thôn mới, góp phần xây dựng và bảo vệ tổ quốc, là cơ sở và ...”?",
         "ans": "Vị trí chiến lược - lực lượng quan trọng để phát triển kinh tế xã hội bền vững"
       },
       {
         "id": 145,
-        "ask": "Câu 145: Đội ngũ tri thức là lực lượng...đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng…, phát triển nền văn hóa VN tiên tiến, đậm đà bản sắc dân tộc; là một lực lượng trong khối liên minh?",
+        "ask": "Câu 145: Điền vào chỗ trống: “Đội ngũ tri thức là lực lượng...đặc biệt quan trọng trong tiến trình đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước và hội nhập quốc tế, xây dựng..., phát triển nền văn hóa VN tiên tiến, đậm đà bản sắc dân tộc; là một lực lượng trong khối liên minh”?",
         "ans": "Lao động sáng tạo -kinh tế tri thức."
       },
       {
         "id": 146,
-        "ask": "Câu 146: Đội ngũ doanh nhân: hiện nay ở VN, đội ngũ doanh nhân phát triển nhanh cả về  … với vai trò không ngừng tăng lên. Đây là tầng lớp XH đặc biệt được Đảng ta chủ trương xây dựng thành một....?",
+        "ask": "Câu 146: Điền vào chỗ trống: “Đội ngũ doanh nhân hiện nay ở VN, đội ngũ doanh nhân phát triển nhanh cả về  … với vai trò không ngừng tăng lên. Đây là tầng lớp XH đặc biệt được Đảng ta chủ trương xây dựng thành một....”?",
         "ans": "Số lượng và quy mô -  Đội ngũ vững mạnh"
       },
       {
@@ -719,17 +764,17 @@
       },
       {
         "id": 148,
-        "ask": "Câu 148: VI.LENIN chỉ rõ: “....nếu không liên minh với nông dân thì không thể có được chính quyền của...., không thể nghĩ được đến việc … chính quyền đó....?",
+        "ask": "Câu 148: VI.LENIN chỉ rõ: “Nếu không liên minh với nông dân thì không thể có được chính quyền của...., không thể nghĩ được đến việc … chính quyền đó”?",
         "ans": "Giai cấp vô sản - duy trì"
       },
       {
         "id": 149,
-        "ask": "Câu 149: VI.LENIN chỉ rõ: “ Chuyên chính vô sản là một hình thức đặc biệt của.......giữa giai cấp vô sản, đội tiên phong của những người lao động, với đông đảo những tầng lớp lao động không phải vô sản (tiểu tư sản, tiểu chủ, nông dân, tri thức....)?",
+        "ask": "Câu 149: VI.LENIN chỉ rõ: “Chuyên chính vô sản là một hình thức đặc biệt của.......giữa giai cấp vô sản, đội tiên phong của những người lao động, với đông đảo những tầng lớp lao động không phải vô sản (tiểu tư sản, tiểu chủ, nông dân, tri thức....)”?",
         "ans": "Liên minh giai cấp"
       },
       {
         "id": 150,
-        "ask": "Câu 150: Trong thời kỳ quá độ lên CNXH, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác vừa là lực lượng sản xuất cơ bản, vừa là..........?",
+        "ask": "Câu 150: Điền vào chỗ trống: “Trong thời kỳ quá độ lên CNXH, giai cấp công nhân, giai cấp nông dân và tầng lớp lao động khác vừa là lực lượng sản xuất cơ bản, vừa là... ”?",
         "ans": "Lực lượng chính trị-xã hội to lớn"
       },
       {
@@ -875,7 +920,7 @@
       },
       {
         "id": 178,
-        "ask": "Câu 178: Tại đại hội XIII trên cơ sở đánh giá kết quả đạt được, cũng như những hạn chế trong thực hiện chính sách về dân tộc đảng ta đề ra chủ trương: “Đảm bảo các dân tộc..... cùng phát triển, nghiêm trị mọi …  chia rẽ phá hoại khối đoàn kết toàn dân tộc?",
+        "ask": "Câu 178: Tại đại hội XIII trên cơ sở đánh giá kết quả đạt được, cũng như những hạn chế trong thực hiện chính sách về dân tộc đảng ta đề ra chủ trương: “Đảm bảo các dân tộc..... cùng phát triển, nghiêm trị mọi …  chia rẽ phá hoại khối đoàn kết toàn dân tộc”?",
         "ans": "Bình đẳng đoàn kết tôn trọng giúp đỡ lẫn nhau - âm mưu hành động"
       },
       {
@@ -910,7 +955,7 @@
       },
       {
         "id": 185,
-        "ask": "Câu 185: Tôn giáo là 1 bộ phận của văn hóa đã được đưa ra từ đầu những năm 40 của thế kỷ XX đó là: “vì lẽ sinh tồn cũng như mục đích của cuộc sống loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo văn học nghệ thuật những công cụ cho sinh hoạt hàng ngày về ăn mặc ở và các phương thức sử dụng toàn bộ những sáng tạo và phát minh đó tức là văn hóa” quan điểm này là của ai?",
+        "ask": "Câu 185: Tôn giáo là 1 bộ phận của văn hóa đã được đưa ra từ đầu những năm 40 của thế kỷ XX đó là: “Vì lẽ sinh tồn cũng như mục đích của cuộc sống loài người mới sáng tạo và phát minh ra ngôn ngữ, chữ viết, đạo đức, pháp luật, khoa học, tôn giáo văn học nghệ thuật những công cụ cho sinh hoạt hàng ngày về ăn mặc ở và các phương thức sử dụng toàn bộ những sáng tạo và phát minh đó tức là văn hóa” quan điểm này là của ai?",
         "ans": "HCM"
       },
       { "id": 186, "ask": "Câu 186: VN có mấy tôn giáo lớn?", "ans": "6" },
@@ -942,8 +987,74 @@
       },
       {
         "id": 193,
-        "ask": "Câu 193: điền vào chỗ trống: “đại hội 13 khẳng định: vận động, đoàn kết, tập hợp các tổ chức tôn giáo, chức sắc, tín đồ sống............, phát huy những giá trị văn hóa đạo đức tốt đẹp cho sự nghiệp … kiên quyết đấu tranh xử lý nghiêm minh những … lợi dụng tôn giáo chống phá Đảng, nhà nước, chế độ XHCN, chia sẻ phá hoại khối đại đoàn kết tôn giáo và khối đại đoàn kết toàn dân tộc” ?",
+        "ask": "Câu 193: Điền vào chỗ trống: “Đại hội XIII khẳng định: Vận động, đoàn kết, tập hợp các tổ chức tôn giáo, chức sắc, tín đồ sống..., phát huy những giá trị văn hóa đạo đức tốt đẹp cho sự nghiệp … kiên quyết đấu tranh xử lý nghiêm minh những … lợi dụng tôn giáo chống phá Đảng, nhà nước, chế độ XHCN, chia sẻ phá hoại khối đại đoàn kết tôn giáo và khối đại đoàn kết toàn dân tộc” ?",
         "ans": "Tốt đời đẹp đạo - đổi mới đất nước - phần tử"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chapter": "Chương VII: Gia đình trong TKQĐ lên CNXH",
+    "questions": [
+      {
+        "id": 194,
+        "ask": "Câu 194: Chỉ ra luận điểm đúng về gia đình?",
+        "ans": "Gia đình là tế bào, là hạt nhân, là nền tảng của xã hội, tồn tại lâu dài trong lịch sử"
+      },
+      {
+        "id": 195,
+        "ask": "Câu 195: Quan hệ nào được coi là quan hệ cơ bản nhất trong gia đình?",
+        "ans": "Quan hệ hôn nhân, huyết thống"
+      },
+      {
+        "id": 196,
+        "ask": "Câu 196: Theo luận điểm Mac-Lênin giải phóng phụ nữ cần phải?",
+        "ans": "Giải phóng xã hội"
+      },
+      {
+        "id": 197,
+        "ask": "Câu 197: “Hàng ngày tái tạo nên đời sống của bản thân mình con người bắt đầu tạo ra những người khác sinh sôi nảy nở đó là quan hệ giữa chồng và vợ, cha mẹ và con cái” luận điểm này là của ai?",
+        "ans": "Mac-Ăng ghen"
+      },
+      {
+        "id": 198,
+        "ask": "Câu 198: Cơ sở hình thành gia đình là gì?",
+        "ans": "Quan hệ hôn nhân, huyết thống, cha mẹ nuôi-con nuôi"
+      },
+      {
+        "id": 199,
+        "ask": "Câu 199: “Nhiều gia đình cộng lại mới thành XH, XH tốt thì gia đình càng tốt, gia đình tốt thì XH mới tốt, hạt nhân của XH là gia đình” là câu nói của ai ?",
+        "ans": "HCM"
+      },
+      {
+        "id": 200,
+        "ask": "Câu 200:Gia đình có mấy chức năng cơ bản?",
+        "ans": "4"
+      },
+      {
+        "id": 201,
+        "ask": "Câu 201: Chức năng nào là chức năng tự nhiên của gia đình?",
+        "ans": "Tái sản xuất ra con người"
+      },
+      {
+        "id": 202,
+        "ask": "Câu 202: 1 trong những cơ sở xây dựng gia đình trong TKQD lên CNXH là?",
+        "ans": "Hôn nhân tự do tiến bộ 1 vợ 1 chồng, vợ chồng bình đẳng"
+      },
+      {
+        "id": 203,
+        "ask": "Câu 203: Sự biến đổi của gd VN trong TKQD lên CNXH diễn ra trên phương diện nào?",
+        "ans": "Quy mô, chức năng, quan hệ gia đình"
+      },
+      {
+        "id": 204,
+        "ask": "Câu 204: Điền vào chỗ trống : Đại hội XII của đảng đưa ra nhiệm vụ xây dựng và phát triển gia đình “Thực hiện.....phát triển gia đình VN phát huy giá trị truyền thống tốt đẹp xây dựng gia đình no ấm tiến bộ hạnh phúc văn minh”?",
+        "ans": "Chiến lược"
+      },
+      {
+        "id": 205,
+        "ask": "Câu 205: ĐH XII của Đảng xác định : “Coi trọng chăm sóc sức khỏe..........công tác dân số-kế hoạch hóa gia đình bảo vệ và chăm sóc bà mẹ trẻ em xây dựng gia đình …”?",
+        "ans": "Nhân dân - hạnh phúc"
       }
     ]
   }

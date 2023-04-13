@@ -1,6 +1,9 @@
 .questions{
     .ask{
         font-weight: 600;
+        .italic{
+            font-style: italic;
+        }
     }
     .marked{
         text-decoration: line-through;

@@ -44,6 +44,7 @@ const Home = ({ colors, fontFamily }) => {
         obj.chapter = chapter;
         obj.questions = questions;
         obj.active = false;
+        obj.isNeedFill = false;
         chapters.push(obj);
         return item;
       });
@@ -61,6 +62,9 @@ const Home = ({ colors, fontFamily }) => {
       cpQuestions.map((item) => {
         if (askMarked.indexOf(item?.id) !== -1) {
           item.marked = true;
+        }
+        if (item?.ask?.includes("“")) {
+          item.isNeedFill = true;
         }
         return item;
       });
@@ -100,6 +104,9 @@ const Home = ({ colors, fontFamily }) => {
       questionsCopy.map((item) => {
         if (askMarked.indexOf(item?.id) !== -1) {
           item.marked = true;
+        }
+        if (item?.ask?.includes("“")) {
+          item.isNeedFill = true;
         }
         return item;
       });
@@ -313,7 +320,9 @@ const Home = ({ colors, fontFamily }) => {
                       className={item.marked ? "ask marked" : "ask"}
                       onClick={() => handleMarkAsk(item.id)}
                     >
-                      {item.ask}
+                      <span className={item.isNeedFill ? "italic" : ""}>
+                        {item.ask}
+                      </span>
                     </div>
                     <div className="ans">
                       {item.isShow ? (

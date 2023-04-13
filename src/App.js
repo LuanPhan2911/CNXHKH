@@ -32,6 +32,7 @@ function App() {
       }}
     >
       <Home colors={colors} fontFamily={fontFamily} />
+      {/* <Test /> */}
     </div>
   );
 }
